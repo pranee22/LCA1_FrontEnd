@@ -1,2 +1,2 @@
 # LCA1_FrontEnd
-Assignment 1 - HTML CSS
+Praneetha Kamabathula Assignment 1 - HTML CSS
